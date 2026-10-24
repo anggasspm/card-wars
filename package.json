@@ -1,0 +1,11 @@
+{
+  "name": "card-wars",
+  "version": "1.0.0",
+  "description": "Game kartu duel berbasis CLI dengan koleksi kartu (CRUD), pixel-art berwarna, dan animasi",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "ISC"
+}
